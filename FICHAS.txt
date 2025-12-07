@@ -1,0 +1,4 @@
+1;Treino A - PULL;0;
+2;Treino B - LEGS;1;1
+3;Treino C - PUSH;0;
+4;PEITO E TRICEPS;1;1
